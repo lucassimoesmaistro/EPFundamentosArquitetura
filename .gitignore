@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs/FundamentosArquitetura/v16
+/DemoDI/bin/Debug/netcoreapp2.2
+/DemoDI/obj
+/DesignPatterns/bin/Debug/netcoreapp2.2
+/DesignPatterns/obj
+/OOP/bin/Debug/netcoreapp2.2
+/OOP/obj
+/ProjetoA/bin/Debug/netcoreapp2.2
+/ProjetoA/obj
+/ProjetoB/bin/Debug/netcoreapp2.2
+/ProjetoB/obj
+/SOLID/bin/Debug/netcoreapp2.2
+/SOLID/obj
